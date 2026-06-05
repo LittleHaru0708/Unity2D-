@@ -106,10 +106,13 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
 The Legend of Slim
-Scenes
-Low_Swordman
-BG
-DarkWolf
-Plugins
-Scripts
-Settings
+*.Scenes
+*.Low_Swordman
+*.BG
+*.DarkWolf
+*.Plugins
+*.Scripts
+*.Settings
+
+
+Library
